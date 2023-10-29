@@ -1,5 +1,5 @@
 
-const Todo = require("../model/Todo");
+const Todo = require("../modelapi/Todo");
 
 const getTodos = async (req, res) => {
 
